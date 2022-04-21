@@ -1,3 +1,4 @@
+![introduction to algorithms book cover](2022-04-20-back-to-basics-cover.jpg)  
 I have participated in several job interviews recently and the feedback I received from these interviews was very valuable to me and contained many lessons.  
 I don't want to neither talk about those interviews nor those lessons here, but the decision I made.  
 It has been taken about 17 years from the university and about 22 years from my first "hello world!" app in Java. The world has changed a lot during these years. Actually, everything I had learned from programming languages in those years is now obsolete. But there are many things that have not changed.  
