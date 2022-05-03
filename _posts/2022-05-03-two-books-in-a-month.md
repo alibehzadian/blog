@@ -1,0 +1,5 @@
+!["Software Engineering at Google" and "Dart Apprentice" books covers](/images/2022-05-03-cover.jpg)  
+I have lots of books that I never started to read and many books that I've read some chapters and sections, but not the whole book. From now on, I want to start reading two books completely in a month and share what I learn from them here.   
+In my opinion, in the software engineering industry, books are divided into two main categories: Books with short lifespan that covers very technical issues, and Longer-lasting books that cover general aspects of software engineering.  
+I also believe that some online courses on youtube or other learning websites are considered books or "multimedia books". I won't stick on paper books.
+I decided to start reading one book of each category in a month. For May 2022, I have selected two books: "Software Engineering at Google" and "Dart Apprentice".  
