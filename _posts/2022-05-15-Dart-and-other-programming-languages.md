@@ -1,4 +1,4 @@
-!["Dart vs. Java, Kotlin and Javascript](/images/2022-05-15-Dart-and-other-programming-languages-cover)
+!["Dart vs. Java, Kotlin and Javascript](/images/2022-05-15-Dart-and-other-programming-languages-cover.jpg)
 I wasn't new to Dart programming language and in the past year, I was writing Flutter apps with Dart.  
 I started writing Flutter apps with searches like "How to do X in flutter?" and "How to do Y in Dart?". I never had a complete book or documentation about Dart or Flutter.  
 In my previous post, I said that for technical book of May, I chose "Dart apperentice" book. I finished reading the book and it is time to share what I've learned from this book.  
