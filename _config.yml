@@ -3,6 +3,8 @@ title:          Ali Behzadian Blog
 description:    "Ali Behzadian's Blog"
 url:            https://blog.behzadian.info
 
+future: true
+
 # Author
 author:
   name:         Ali Behzadian Nejad
