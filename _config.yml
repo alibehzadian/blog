@@ -3,8 +3,6 @@ title:          Ali Behzadian Blog
 description:    "Ali Behzadian's Blog"
 url:            https://blog.behzadian.info
 
-future: true
-
 # Author
 author:
   name:         Ali Behzadian Nejad
@@ -40,3 +38,9 @@ social:
   github: https://github.com/alibehzadian
   twitter: https://twitter.com/BehzadianAli
   linkedin: https://www.linkedin.com/in/ali-behzadian-nejad/
+
+
+future: true
+
+# Google Analytics
+google_analytics: G-6V34VKK9NP
