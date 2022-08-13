@@ -7,4 +7,4 @@ Yeah, that was the main reason for us. When I talk about limitations, I mean it 
 
 # New experiences
 
-
+I did almost everything in my career in Iran. From founding an startup, to working for large IT companies. I wanted to extend my experince, to work internationally. So I decided to move to an overseas country. I chose Berlin, because it is largest city in European Union. It has many opportunities for software engineers and the most important reason, it is a very international city. you can find people from any nationality you can imagine in Berlin. So I started to apply for companies in Berlin in early 2022. Now I am working for a respected startup active in insurance domain in Berlin. 
