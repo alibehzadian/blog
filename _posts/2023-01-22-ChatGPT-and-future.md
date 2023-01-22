@@ -55,4 +55,4 @@ Overall, while it's true that AI has the potential to automate some jobs, it's i
 
 # Conclusion
 
-You have probably guessed by now! Yes, this whole article is the result of ChatGPT and me's talks! The image was created by ChatGPT's brother, DALL-E! Say hi to the future!
+You have probably guessed by now! Yes, this whole article is the result of a chat between me and ChatGPT and the image was created by ChatGPT's brother project, DALL-E! Say hi to the future!
