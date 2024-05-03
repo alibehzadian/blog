@@ -1,3 +1,5 @@
+!["ChatGPT and Future"](/images/2024-05-03-Java-Thread-Performance-vs.-Virtual-Threads.png)
+
 During an interview, some interviewer asked me about the differences between Java Threads performance vs. Virtual Threads. I answered that because Virtual Threads are actually light weight threads handled by JVM, they must be faster, but I was curious about the exact performance difference between these two. So, I did a simple benchmark to see the performance improvements in Virtual Threads.  
 
 This is a very simple test, I create a very huge number of threads and virtual threads, each takes 5 seconds to finish. Then I calculate the duration of running app.
