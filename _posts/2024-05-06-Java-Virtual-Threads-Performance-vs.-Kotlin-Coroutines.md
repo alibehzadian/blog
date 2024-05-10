@@ -1,6 +1,6 @@
 !["Java Virtual Threads Performance vs. Kotlin Coroutines"](/images/2024-05-03-Java-Thread-Performance-vs.-Virtual-Threads.png)
 
-In previous post, I just did a simple benchmark to compare performance of Java Threads vs. Java Virtual Threads. In this post, I want to compare Java Virtual Threads against Kotlin Coroutines.
+In [previous post](https://blog.behzadian.info/2024-05-03/Java-Thread-Performance-vs.-Virtual-Threads), I just did a simple benchmark to compare performance of Java Threads vs. Java Virtual Threads. In this post, I want to compare Java Virtual Threads against Kotlin Coroutines.
 
 This is a very simple test, I create a very huge number of coroutines, each takes 5 seconds to finish. Then I calculate the duration of running app.
 
